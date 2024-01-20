@@ -1,7 +1,7 @@
-# Assignment: Amazon Product Web Scraping
+# Amazon Product Web Scraping
 
 ## Overview
-This assignment focuses on web scraping product information from Amazon, including product URLs, names, prices, ratings, and reviews. The scraped data will be stored in a CSV file. The assignment is divided into two parts:
+This focuses on web scraping product information from Amazon, including product URLs, names, prices, ratings, and reviews. The scraped data will be stored in a CSV file. The assignment is divided into two parts:
 
 **Part 1: Scraping Product Listings**
 In this part, we scrape product listings from Amazon. The requirements include:
